@@ -1,4 +1,4 @@
-## PizzaPal
+# PizzaPal
 
 Step 1.
 Views and recognizes a round pizza, gets its size and produces lines to show where to cut for even slices.
@@ -7,9 +7,15 @@ Views and recognizes a round pizza, gets its size and produces lines to show whe
   - TODO: Learn how to overlay a shape shape to match an object of reference
   - TODO: Learn how to create additional line objects within the shape that overlays the object
   
-  Notes for circle slicing math:
+  ## Notes for circle slicing math:
   - 8 slices = 45 degrees rotation, then across the diameter
   - 6 slices = 60 degrees rotation, then across the diameter
+  
+  Pass as an array of tuples of start-end coordinates?
+  
+  8 slice = [(0, 180), (45, 225), (90, 270), (135, 315)]
+  6 slice = [(0, 180), (60, 240), (120, 300)]
+  
   
   Step 2.
   Building on Step 1, recognizes an real world object placed on the pizza and then calculates where other real world objects need to be placed to ensure even distribution.
