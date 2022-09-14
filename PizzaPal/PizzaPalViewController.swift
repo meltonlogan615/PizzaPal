@@ -20,6 +20,6 @@ class PizzaPalViewController: UIViewController {
         let boxAnchor = try! Experience.loadBox()
         
         // Add the box anchor to the scene
-        arView.scene.anchors.append(boxAnchor)
+      PizzaView.scene.anchors.append(boxAnchor)
     }
 }
