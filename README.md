@@ -1,2 +1,0 @@
-# PizzaPal
-AR Pizza Assistant
