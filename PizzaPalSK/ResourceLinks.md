@@ -11,8 +11,6 @@
 ### Code
 - https://github.com/memtarhan/ios-ar/tree/master/Mastering%20ARKit/2-Working-with-Shapes#session-run-options
 
-
-
 ## ARWorldTrackingConfiguration:
  - https://developer.apple.com/documentation/arkit/arworldtrackingconfiguration
 

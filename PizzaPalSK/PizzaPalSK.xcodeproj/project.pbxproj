@@ -7,32 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3279F8C628D189980023947D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3279F8C528D189980023947D /* AppDelegate.swift */; };
-		3279F8C828D189980023947D /* PizzaPalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3279F8C728D189980023947D /* PizzaPalViewController.swift */; };
-		3279F8CA28D189980023947D /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 3279F8C928D189980023947D /* Experience.rcproject */; };
-		3279F8CD28D189980023947D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3279F8CB28D189980023947D /* Main.storyboard */; };
-		3279F8CF28D1899A0023947D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3279F8CE28D1899A0023947D /* Assets.xcassets */; };
-		3279F8D228D1899A0023947D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3279F8D028D1899A0023947D /* LaunchScreen.storyboard */; };
-		3279F8D928D18C0B0023947D /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3279F8D828D18C0B0023947D /* Info.plist */; };
-		3279F8DB28D18FAC0023947D /* Notes in Resources */ = {isa = PBXBuildFile; fileRef = 3279F8DA28D18FAC0023947D /* Notes */; };
-		3279F8DD28D204720023947D /* README-images in Resources */ = {isa = PBXBuildFile; fileRef = 3279F8DC28D204720023947D /* README-images */; };
+		3279F90028D428830023947D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3279F8FF28D428830023947D /* AppDelegate.swift */; };
+		3279F90228D428830023947D /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 3279F90128D428830023947D /* art.scnassets */; };
+		3279F90428D428830023947D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3279F90328D428830023947D /* ViewController.swift */; };
+		3279F90728D428830023947D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3279F90528D428830023947D /* Main.storyboard */; };
+		3279F90C28D428840023947D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3279F90A28D428840023947D /* LaunchScreen.storyboard */; };
+		3279F92128D4A5910023947D /* Silces.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3279F92028D4A5910023947D /* Silces.swift */; };
+		3279F92328D4A5AA0023947D /* Cut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3279F92228D4A5AA0023947D /* Cut.swift */; };
+		3279F92528D4A5D00023947D /* PizzaObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3279F92428D4A5D00023947D /* PizzaObject.swift */; };
+		3279F92728D4A5DF0023947D /* PizzaRing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3279F92628D4A5DF0023947D /* PizzaRing.swift */; };
+		3279F92928D4A7010023947D /* README-images in Resources */ = {isa = PBXBuildFile; fileRef = 3279F92828D4A7010023947D /* README-images */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3279F8C228D189980023947D /* PizzaPal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PizzaPal.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		3279F8C528D189980023947D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		3279F8C728D189980023947D /* PizzaPalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PizzaPalViewController.swift; sourceTree = "<group>"; };
-		3279F8C928D189980023947D /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
-		3279F8CC28D189980023947D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		3279F8CE28D1899A0023947D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		3279F8D128D1899A0023947D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		3279F8D828D18C0B0023947D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3279F8DA28D18FAC0023947D /* Notes */ = {isa = PBXFileReference; lastKnownFileType = text; path = Notes; sourceTree = "<group>"; };
-		3279F8DC28D204720023947D /* README-images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "README-images"; sourceTree = "<group>"; };
+		3279F8FC28D428830023947D /* PizzaPalSK.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PizzaPalSK.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3279F8FF28D428830023947D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3279F90128D428830023947D /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
+		3279F90328D428830023947D /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3279F90628D428830023947D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3279F90B28D428840023947D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3279F91E28D4A50E0023947D /* ResourceLinks.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ResourceLinks.md; sourceTree = "<group>"; };
+		3279F91F28D4A5320023947D /* Notes.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Notes.md; sourceTree = "<group>"; };
+		3279F92028D4A5910023947D /* Silces.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Silces.swift; sourceTree = "<group>"; };
+		3279F92228D4A5AA0023947D /* Cut.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cut.swift; sourceTree = "<group>"; };
+		3279F92428D4A5D00023947D /* PizzaObject.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PizzaObject.swift; sourceTree = "<group>"; };
+		3279F92628D4A5DF0023947D /* PizzaRing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PizzaRing.swift; sourceTree = "<group>"; };
+		3279F92828D4A7010023947D /* README-images */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "README-images"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3279F8BF28D189980023947D /* Frameworks */ = {
+		3279F8F928D428830023947D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,74 +46,117 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3279F8B928D189980023947D = {
+		3279F8F328D428830023947D = {
 			isa = PBXGroup;
 			children = (
-				3279F8DC28D204720023947D /* README-images */,
-				3279F8C428D189980023947D /* PizzaPal */,
-				3279F8C328D189980023947D /* Products */,
+				3279F91F28D4A5320023947D /* Notes.md */,
+				3279F91E28D4A50E0023947D /* ResourceLinks.md */,
+				3279F92828D4A7010023947D /* README-images */,
+				3279F8FE28D428830023947D /* PizzaPalSK */,
+				3279F8FD28D428830023947D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3279F8C328D189980023947D /* Products */ = {
+		3279F8FD28D428830023947D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3279F8C228D189980023947D /* PizzaPal.app */,
+				3279F8FC28D428830023947D /* PizzaPalSK.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3279F8C428D189980023947D /* PizzaPal */ = {
+		3279F8FE28D428830023947D /* PizzaPalSK */ = {
 			isa = PBXGroup;
 			children = (
-				3279F8D828D18C0B0023947D /* Info.plist */,
-				3279F8C528D189980023947D /* AppDelegate.swift */,
-				3279F8C728D189980023947D /* PizzaPalViewController.swift */,
-				3279F8C928D189980023947D /* Experience.rcproject */,
-				3279F8CB28D189980023947D /* Main.storyboard */,
-				3279F8CE28D1899A0023947D /* Assets.xcassets */,
-				3279F8D028D1899A0023947D /* LaunchScreen.storyboard */,
-				3279F8DA28D18FAC0023947D /* Notes */,
+				3279F91D28D4A4CD0023947D /* Scenes */,
+				3279F91C28D4A4C50023947D /* Models */,
+				3279F91B28D4A4BE0023947D /* Views */,
+				3279F91A28D4A4AF0023947D /* Controllers */,
+				3279F91928D4A4A20023947D /* SupportFiles */,
 			);
-			path = PizzaPal;
+			path = PizzaPalSK;
+			sourceTree = "<group>";
+		};
+		3279F91928D4A4A20023947D /* SupportFiles */ = {
+			isa = PBXGroup;
+			children = (
+				3279F8FF28D428830023947D /* AppDelegate.swift */,
+				3279F90128D428830023947D /* art.scnassets */,
+			);
+			name = SupportFiles;
+			sourceTree = "<group>";
+		};
+		3279F91A28D4A4AF0023947D /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3279F90328D428830023947D /* ViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		3279F91B28D4A4BE0023947D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3279F90A28D428840023947D /* LaunchScreen.storyboard */,
+				3279F90528D428830023947D /* Main.storyboard */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		3279F91C28D4A4C50023947D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				3279F92028D4A5910023947D /* Silces.swift */,
+				3279F92228D4A5AA0023947D /* Cut.swift */,
+				3279F92428D4A5D00023947D /* PizzaObject.swift */,
+				3279F92628D4A5DF0023947D /* PizzaRing.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		3279F91D28D4A4CD0023947D /* Scenes */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Scenes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3279F8C128D189980023947D /* PizzaPal */ = {
+		3279F8FB28D428830023947D /* PizzaPalSK */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3279F8D528D1899A0023947D /* Build configuration list for PBXNativeTarget "PizzaPal" */;
+			buildConfigurationList = 3279F90F28D428840023947D /* Build configuration list for PBXNativeTarget "PizzaPalSK" */;
 			buildPhases = (
-				3279F8BE28D189980023947D /* Sources */,
-				3279F8BF28D189980023947D /* Frameworks */,
-				3279F8C028D189980023947D /* Resources */,
+				3279F8F828D428830023947D /* Sources */,
+				3279F8F928D428830023947D /* Frameworks */,
+				3279F8FA28D428830023947D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = PizzaPal;
-			productName = PizzaPal;
-			productReference = 3279F8C228D189980023947D /* PizzaPal.app */;
+			name = PizzaPalSK;
+			productName = PizzaPalSK;
+			productReference = 3279F8FC28D428830023947D /* PizzaPalSK.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3279F8BA28D189980023947D /* Project object */ = {
+		3279F8F428D428830023947D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1400;
 				LastUpgradeCheck = 1400;
 				TargetAttributes = {
-					3279F8C128D189980023947D = {
+					3279F8FB28D428830023947D = {
 						CreatedOnToolsVersion = 14.0;
 					};
 				};
 			};
-			buildConfigurationList = 3279F8BD28D189980023947D /* Build configuration list for PBXProject "PizzaPal" */;
+			buildConfigurationList = 3279F8F728D428830023947D /* Build configuration list for PBXProject "PizzaPalSK" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -117,58 +164,59 @@
 				en,
 				Base,
 			);
-			mainGroup = 3279F8B928D189980023947D;
-			productRefGroup = 3279F8C328D189980023947D /* Products */;
+			mainGroup = 3279F8F328D428830023947D;
+			productRefGroup = 3279F8FD28D428830023947D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3279F8C128D189980023947D /* PizzaPal */,
+				3279F8FB28D428830023947D /* PizzaPalSK */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3279F8C028D189980023947D /* Resources */ = {
+		3279F8FA28D428830023947D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3279F8D928D18C0B0023947D /* Info.plist in Resources */,
-				3279F8DB28D18FAC0023947D /* Notes in Resources */,
-				3279F8DD28D204720023947D /* README-images in Resources */,
-				3279F8D228D1899A0023947D /* LaunchScreen.storyboard in Resources */,
-				3279F8CF28D1899A0023947D /* Assets.xcassets in Resources */,
-				3279F8CD28D189980023947D /* Main.storyboard in Resources */,
+				3279F90228D428830023947D /* art.scnassets in Resources */,
+				3279F90C28D428840023947D /* LaunchScreen.storyboard in Resources */,
+				3279F92928D4A7010023947D /* README-images in Resources */,
+				3279F90728D428830023947D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3279F8BE28D189980023947D /* Sources */ = {
+		3279F8F828D428830023947D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3279F8C828D189980023947D /* PizzaPalViewController.swift in Sources */,
-				3279F8C628D189980023947D /* AppDelegate.swift in Sources */,
-				3279F8CA28D189980023947D /* Experience.rcproject in Sources */,
+				3279F92728D4A5DF0023947D /* PizzaRing.swift in Sources */,
+				3279F92328D4A5AA0023947D /* Cut.swift in Sources */,
+				3279F90428D428830023947D /* ViewController.swift in Sources */,
+				3279F92528D4A5D00023947D /* PizzaObject.swift in Sources */,
+				3279F92128D4A5910023947D /* Silces.swift in Sources */,
+				3279F90028D428830023947D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		3279F8CB28D189980023947D /* Main.storyboard */ = {
+		3279F90528D428830023947D /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3279F8CC28D189980023947D /* Base */,
+				3279F90628D428830023947D /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		3279F8D028D1899A0023947D /* LaunchScreen.storyboard */ = {
+		3279F90A28D428840023947D /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				3279F8D128D1899A0023947D /* Base */,
+				3279F90B28D428840023947D /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -176,7 +224,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		3279F8D328D1899A0023947D /* Debug */ = {
+		3279F90D28D428840023947D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -236,7 +284,7 @@
 			};
 			name = Debug;
 		};
-		3279F8D428D1899A0023947D /* Release */ = {
+		3279F90E28D428840023947D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -290,7 +338,7 @@
 			};
 			name = Release;
 		};
-		3279F8D628D1899A0023947D /* Debug */ = {
+		3279F91028D428840023947D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -299,11 +347,13 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VR7223ZYQY;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Pizza Pal";
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -312,15 +362,18 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.meltonlogan.PizzaPal;
+				PRODUCT_BUNDLE_IDENTIFIER = com.meltonlogan.PizzaPalSK;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		3279F8D728D1899A0023947D /* Release */ = {
+		3279F91128D428840023947D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -329,11 +382,13 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = VR7223ZYQY;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = "Pizza Pal";
 				INFOPLIST_KEY_NSCameraUsageDescription = "";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UIRequiredDeviceCapabilities = arkit;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
 				INFOPLIST_KEY_UIStatusBarHidden = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -342,8 +397,11 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.meltonlogan.PizzaPal;
+				PRODUCT_BUNDLE_IDENTIFIER = com.meltonlogan.PizzaPalSK;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -353,25 +411,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3279F8BD28D189980023947D /* Build configuration list for PBXProject "PizzaPal" */ = {
+		3279F8F728D428830023947D /* Build configuration list for PBXProject "PizzaPalSK" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3279F8D328D1899A0023947D /* Debug */,
-				3279F8D428D1899A0023947D /* Release */,
+				3279F90D28D428840023947D /* Debug */,
+				3279F90E28D428840023947D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3279F8D528D1899A0023947D /* Build configuration list for PBXNativeTarget "PizzaPal" */ = {
+		3279F90F28D428840023947D /* Build configuration list for PBXNativeTarget "PizzaPalSK" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3279F8D628D1899A0023947D /* Debug */,
-				3279F8D728D1899A0023947D /* Release */,
+				3279F91028D428840023947D /* Debug */,
+				3279F91128D428840023947D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3279F8BA28D189980023947D /* Project object */;
+	rootObject = 3279F8F428D428830023947D /* Project object */;
 }

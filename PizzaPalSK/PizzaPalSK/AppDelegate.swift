@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  PizzaPal
+//  PizzaPalSK
 //
-//  Created by Logan Melton on 9/13/22.
+//  Created by Logan Melton on 9/15/22.
 //
 
 import UIKit

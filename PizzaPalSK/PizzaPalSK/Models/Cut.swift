@@ -15,7 +15,7 @@ struct Cut: Codable, Comparable {
   static func < (lhs: Self, rhs: Self) -> Bool {
     return lhs.start < rhs.start
   }
-
+  
   mutating func setCutCount(for slices: Slices) -> [(Int, Int)] {
     var cuts = [(Int, Int)]()
     switch slices {
